@@ -36,9 +36,14 @@ Atendiendo al art. 5
 El reglamento debe aclarar que todo documento público, debidamente anonimizado, debe ser de acceso abierto. En particular,
 - manuales
 - decretos.
-- proclamas
-- informes
+- proclamas.
+- informes.
 - ordenanzas TIC (Definir).
+- providencias.
+- contratos de obras / servicios.
+- llamados a licitaciones para obras / servicios.
+- informes de gestión.
+- otros (agregar otros documentos generados por la APN).
 
 
 Atendiendo al art 8:
